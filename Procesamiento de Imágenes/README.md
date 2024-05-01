@@ -1,5 +1,6 @@
 # Trabajo Práctico Procesamiento de Imágenes
-## Profesor: Moisés Tinte
+## Profesor: 
+### Moisés Tinte
 
 ## Integrantes
 - Christian Falco  
