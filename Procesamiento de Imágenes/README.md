@@ -1,5 +1,5 @@
 # Trabajo Practico Procesamiento de Imagenes
-
+## Profesor: Moises Tinte
 ## Analisis de Señales de transito usando redes CNN
 
 
