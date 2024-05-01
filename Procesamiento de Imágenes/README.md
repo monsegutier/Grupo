@@ -1,7 +1,5 @@
 # Trabajo Practico Procesamiento de Imagenes
-## Profesor: Moises Tinte
-## Analisis de Señales de transito usando redes CNN
-
+# Profesor: Moises Tinte
 
 # Integrantes
 
@@ -18,6 +16,6 @@ Jorgelina Tissera
 
 
 # Tematica del proyecto
-
+## Analisis de Señales de transito usando redes CNN
 # Objetivos:
 
