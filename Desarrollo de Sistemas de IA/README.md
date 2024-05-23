@@ -1,7 +1,7 @@
 
 <div align="center">
-  <h1>ISPC</h1>
-  <h2>TSCD</h2>
+  <h1>ISPC - TSCD </h1>
+ 
   <h3>MODULO CIENTIFICO DE DATOS</h3>
   <h3>DESARROLLO DE SISTEMAS DE IA</h3>
   <h4>COHORTE 2022</h4>
