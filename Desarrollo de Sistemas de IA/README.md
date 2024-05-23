@@ -5,7 +5,7 @@
   <h3>MODULO CIENTIFICO DE DATOS</h3>
   <h3>DESARROLLO DE SISTEMAS DE IA</h3>
   <h4>COHORTE 2022</h4>
-  <img src="img/ia.png" alt="Descripción de la imagen" width="300"/>
+  <img src="img/IA.png" alt="Descripción de la imagen" width="300"/>
 </div>
 
 
