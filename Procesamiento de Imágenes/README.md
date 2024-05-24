@@ -24,6 +24,6 @@
 ### Análisis de Señales de Tránsito usando Redes CNN
 
 ## Objetivos
-- [...]
+El objetivo principal de este proyecto es desarrollar un modelo de reconocimiento de señales de tráfico utilizando una CNN. Se busca crear un sistema capaz de identificar y clasificar una amplia variedad de señales de tráfico en tiempo real, lo que permitirá mejorar la seguridad vial y contribuir al desarrollo de vehículos autónomos más seguros.
 
 
