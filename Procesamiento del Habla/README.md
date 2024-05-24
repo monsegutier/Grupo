@@ -27,7 +27,13 @@ MOISES TINTE
 
 # Tematica del proyecto
 
+PROYECTO DE DEEP LEARNING EN EL ÁREA DE LA GENÓMICA
+Clasificación de secuencias de ADN codificantes y no codificantes
+
 
 # Objetivos:
+
+El proyecto tiene como finalidad desarrollar un modelo de clasificación, mediante redes neuronales y basado en procesamiento de lenguaje natural, que pueda procesar secuencias genómicas, en este caso, de la bacteria E.coli, e identificar las regiones codificantes y no codificantes, dentro de su secuencia de ADN.
+
 
 
