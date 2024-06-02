@@ -21,8 +21,8 @@ Christian Falco
 Eduardo Figueroa  
 Jorge Flores  
 Carlos Gimenez  
-Cinthia Yael Gomez  
-Monserrat Guitierrez  
+Cinthya Yael Gomez  
+Monserrat Gutierrez  
 Jorgelina Tissera  
 
 
