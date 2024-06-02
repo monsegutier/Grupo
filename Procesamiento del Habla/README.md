@@ -19,8 +19,8 @@ MOISES TINTE
 - Sol Figueroa  
 - Jorge Flores  
 - Carlos Gimenez  
-- Cinthia Yael Gomez  
-- Monserrat Guitierrez  
+- Cinthya Yael Gomez  
+- Monserrat Gutierrez  
 - Walter Nieto  
 - Jorgelina Tissera  
 
