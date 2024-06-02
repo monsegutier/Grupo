@@ -6,7 +6,7 @@ Eduardo Figueroa
 Sol Figueroa  
 Carlos Gimenez  
 Cinthya Yael Gomez  
-Monserrat Guitierrez  
+Monserrat Gutierrez  
 Walter Nieto  
 Jorgelina Tissera  
 
