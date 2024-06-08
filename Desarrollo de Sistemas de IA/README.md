@@ -17,7 +17,7 @@ Carlos Charletti
 # Integrantes
 
 
-Christian Falco  
+Cristian Falco  
 Eduardo Figueroa  
 Jorge Flores  
 Carlos Gimenez  
