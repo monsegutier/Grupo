@@ -14,7 +14,7 @@ MOISES TINTE
 
 
 ## Integrantes
-- Christian Falco  
+- Cristian Falco  
 - Eduardo Figueroa  
 - Sol Figueroa  
 - Jorge Flores  
