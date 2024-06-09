@@ -1,7 +1,6 @@
 # Integrantes
 
 Jorge Flores
-
 Cristian Falco  
 Eduardo Figueroa  
 Sol Figueroa  
