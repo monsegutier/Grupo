@@ -1,15 +1,14 @@
 # Integrantes
 
-Cristian Falco 
-Jorge Flores 
+Cristian Falco  
 Eduardo Figueroa  
 Sol Figueroa  
+Jorge Flores  
 Carlos Gimenez  
 Cinthya Yael Gomez  
 Monserrat Gutierrez  
 Walter Nieto  
 Jorgelina Tissera  
-
 
 
 
