@@ -1,7 +1,7 @@
 # Integrantes
 
-Jorge Flores
-Cristian Falco  
+Cristian Falco 
+Jorge Flores 
 Eduardo Figueroa  
 Sol Figueroa  
 Carlos Gimenez  
