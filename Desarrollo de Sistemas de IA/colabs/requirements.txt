@@ -1,5 +1,0 @@
-tensorflow
-gradio
-numpy
-pillow
-requests
